@@ -16,7 +16,7 @@
     "react-map-gl": "^5.0.10",
     "react-router-dom": "^5.0.1",
     "react-router-modal": "^1.5.2",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "react-search-field": "^1.0.0",
     "stringquery": "^1.0.8",
     "styled-components": "^4.3.2"
